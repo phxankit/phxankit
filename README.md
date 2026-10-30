@@ -6,9 +6,11 @@
 
 ### Frontend Developer | React.js Developer | MERN Stack Learner
 
-I am passionate about web development and learning modern technologies. I enjoy creating responsive websites and interactive web applications.
+I am passionate about web development, creating responsive websites, and learning modern technologies. I enjoy building interactive applications and improving my coding skills every day.
 
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-phxankitkashyap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phxankitkashyap)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=phxankitkashyap&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/phxankitkashyap)
 
 </div>
 
@@ -16,12 +18,13 @@ I am passionate about web development and learning modern technologies. I enjoy 
 
 ## 👨‍💻 About Me
 
+- 👋 Hi, I'm **Ankit Kashyap**
 - 💻 I am learning **Full Stack Web Development**
 - ⚛️ Currently focusing on **React.js**
 - 🌱 Learning **JavaScript, React.js and MERN Stack**
-- 🎨 Interested in **Frontend Development and Responsive Web Design**
-- 🚀 Practising real-world projects and improving coding skills
-- 🧠 Learning new technologies every day
+- 🎨 Interested in Frontend Development and Responsive Web Design
+- 🚀 Building projects using React and Bootstrap
+- 🧠 Improving my problem-solving and programming skills
 - 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
@@ -34,38 +37,62 @@ I am passionate about web development and learning modern technologies. I enjoy 
 
 </div>
 
-### My Skills
-
+### Frontend Development
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 - React.js
-- React Hooks (useState, useEffect, useCallback, useMemo, useRef)
+- React Hooks
 - React Router
+- AOS Animation
+- Recharts
+
+### React.js Concepts
+- Components and Props
+- useState and useEffect
+- useCallback and useMemo
+- useRef
+- React Router
+- API Integration
+- Controlled and Uncontrolled Forms
 - React Hook Form
 - Yup Validation
-- API Integration
-- Git & GitHub
 
-### Currently Learning
-
+### Backend Development (Learning)
 - Node.js
 - Express.js
 - MongoDB
-- MERN Stack Development
+- REST API
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vite
 
 ---
 
-## 📚 Currently Practising
+## 📚 Currently Learning
 
-- React Components and Props
-- State Management and Hooks
-- React Router
-- API Fetching (GET, POST, PUT, PATCH, DELETE)
-- Form Validation using Yup
-- Responsive Web Design
-- CRUD Operations
+- Advanced React.js
+- MERN Stack Development
+- API Integration and CRUD Operations
+- Backend Development
+- Database Management
+- Real-world Web Development Projects
+
+---
+
+## 🚀 My Projects
+
+- React.js Projects
+- Responsive Bootstrap Websites
+- React Router Applications
+- Form Validation Projects
+- API Integration Projects
+- JavaScript Practice Projects
 
 ---
 
@@ -73,13 +100,13 @@ I am passionate about web development and learning modern technologies. I enjoy 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=phxankitkashyap&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phxankitkashyap&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=phxankitkashyap&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -89,9 +116,9 @@ I am passionate about web development and learning modern technologies. I enjoy 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+<a href="https://github.com/phxankitkashyap">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
